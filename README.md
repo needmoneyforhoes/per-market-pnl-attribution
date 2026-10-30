@@ -45,3 +45,8 @@ Reads runtime logs and recaps from the private `polymarket-data` repo. None are 
 - `ev_snipe.jsonl`, `btc_snipe_training.jsonl`: snipe fills and training rows
 - `replay_*.json`: per-market tick replays
 - `race_test_*.log`: per-market execution logs (snipe ledger lines)
+
+## Feedback
+
+Suggestions, improvements, or something not working? Please
+[open an issue](https://github.com/needmoneyforhoes/per-market-pnl-attribution/issues/new). Pull requests are welcome too.
